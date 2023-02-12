@@ -8,26 +8,6 @@
 		<array>
 			<dict>
 				<key>Action</key>
-				<string>buildForTestActiveRunContext:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.BuildForTest</string>
-				<key>Group</key>
-				<string>Product Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Parent Title</key>
-				<string>Build For</string>
-				<key>Title</key>
-				<string>Testing</string>
-			</dict>
-			<dict>
-				<key>Action</key>
 				<string>clearConsole:</string>
 				<key>Alternate</key>
 				<string>NO</string>
@@ -168,28 +148,6 @@
 			</dict>
 			<dict>
 				<key>Action</key>
-				<string>uppercaseWord:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.MakeUpperCase</string>
-				<key>Group</key>
-				<string>Edit Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>$@U</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Parent Title</key>
-				<string>Transformations</string>
-				<key>Title</key>
-				<string>Make Upper Case</string>
-			</dict>
-			<dict>
-				<key>Action</key>
 				<string>moveFocusToEditor:</string>
 				<key>Alternate</key>
 				<string>NO</string>
@@ -244,6 +202,24 @@
 			</dict>
 			<dict>
 				<key>Action</key>
+				<string>productsWindow_reload:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Products.Reload</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Reload Organizer</string>
+			</dict>
+			<dict>
+				<key>Action</key>
 				<string>selectNextOccurrence:</string>
 				<key>Alternate</key>
 				<string>NO</string>
@@ -261,6 +237,28 @@
 				<string>NO</string>
 				<key>Title</key>
 				<string>Select Next Occurrence</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>testSelectedItems:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.TestSelectedItems</string>
+				<key>Group</key>
+				<string>Product Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^$R</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Perform Action</string>
+				<key>Title</key>
+				<string>Test Selected Items</string>
 			</dict>
 			<dict>
 				<key>Action</key>
