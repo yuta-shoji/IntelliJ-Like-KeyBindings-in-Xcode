@@ -1,3 +1,7 @@
+# Xcodeでの開発に溜め息が出るあなたへ
+*IntelliJ like key bindings in Xcode*
+___
+
 # 手順
 1. 設定ファイル`IntelliJ-Like.idekeybindings`を以下のパス直下に保存   　`**~/Library/Developer/Xcode/UserData/KeyBindings**`
 2. Xcodeを再起動
