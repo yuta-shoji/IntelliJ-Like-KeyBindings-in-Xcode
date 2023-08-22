@@ -2,7 +2,6 @@
 *IntelliJ like key bindings in Xcode*
 
 # 手順
-___
 1. 設定ファイル`IntelliJ-Like.idekeybindings`を以下のパス直下に保存
   `~/Library/Developer/Xcode/UserData/KeyBindings`
 2. Xcodeを再起動
@@ -17,7 +16,6 @@ ___
 ※著者はXcode、及びAppleを心から応援しています
 
 # 絶対に使って欲しいショートカット
-___
 
 既存のものと、カスタムするべきショートカットをまとめて紹介します
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2633746/4959c8d4-4e51-cc83-d402-04c2a644eb03.png)
