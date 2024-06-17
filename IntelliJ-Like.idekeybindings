@@ -1438,6 +1438,8 @@
 			</array>
 			<key>@</key>
 			<string>deleteLine:</string>
+			<key>^$J</key>
+			<string>joinParagraphs:</string>
 			<key>~</key>
 			<string>selectWord:</string>
 		</dict>
